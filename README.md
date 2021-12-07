@@ -1,5 +1,5 @@
 
-### Hi I'm Niko!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+### Hi I'm Niko! 
 
 - 💻 I’m a <a href="www.careerfoundry.com">CareerFoundry.com</a> certified Full-Stack developer with an audio tech background based in Virginia, US.
 - ✔️ I’m Currently available for hiring at a junior level.
