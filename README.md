@@ -1,6 +1,5 @@
 
-### Hi I'm Niko! 
-<img src="https://user-images.githubusercontent.com/89710667/146688314-5f3bb4cc-e8e4-47ae-99dd-7c079a4d3c47.png" alt="pallette1600" style="width: 30px;">
+### Hi I'm Niko! <span><img src="https://user-images.githubusercontent.com/89710667/146688314-5f3bb4cc-e8e4-47ae-99dd-7c079a4d3c47.png" alt="pallette1600" style="width: 30px;"></span>
 - 💻 I’m a <a href="https://careerfoundry.com/">CareerFoundry.com</a> certified Full-Stack developer with an audio tech background based in Virginia, US.
 - ✔️ I’m Currently available for hiring.
 - ❤️ I love reading and listening to books, watching movies, and playing video games!
