@@ -3,7 +3,6 @@
 - 💻 I’m a <a href="https://careerfoundry.com/">CareerFoundry.com</a> certified Full-Stack developer with an audio tech background based in Virginia, US.
 - ✔️ I’m Currently available for hiring.
 - ❤️ I love reading and listening to books, watching movies, and playing video games!
-- 💪 I can also play guitar and cook!
 
 ---
 
