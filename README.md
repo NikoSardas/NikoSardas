@@ -1,4 +1,5 @@
 
+- 👋 Hi, I'm Niko
 - 💻 I’m a <a href="https://careerfoundry.com/">CareerFoundry.com</a> certified Full-Stack developer with an audio tech background based in Virginia, US.
 - ✔️ I’m Currently available for hiring.
 ---
