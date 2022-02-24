@@ -1,9 +1,9 @@
 
-- 👋 Hi, I'm @nikosardas, and I am a recently graduated full-stack web developer with a digital audio production background based in Virginia, US.
+- 👋 Hi, I'm @nikosardas, and I am a recently graduated full-stack web developer with a digital audio production background in Virginia, US.
 
-- ✔️ I have completed an immersive web development course with CareerFoundry, and I am currently available for hiring.
+- ✔️ I have completed an immersive web development course with CareerFoundry, and I am currently available for hire.
 
-- 👀 I enjoy working with JavaScript and am currently deepening my knowledge of the language.
+- 👀 I enjoy working with JavaScript and am currently deepening my knowledge.
 
 - 🔥 I began my development journey as a self-taught Chrome extensions developer and publisher. I love building software products that can be useful to others. [Check out some of my extensions!](https://nikosardas.com/#projects)
 
