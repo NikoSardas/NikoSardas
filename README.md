@@ -12,3 +12,4 @@
 
 [<img align="left" alt="send me an email" width="25px" src="https://github.com/nikosardas/nikosardas/blob/main/assets/gmail.svg" />](mailto:nikosardas.dev@gmail.com)
 [<img align="left" alt="linkedin profile" width="25px" src="https://github.com/nikosardas/nikosardas/blob/main/assets/linkedin.svg" />](https://www.linkedin.com/in/niko-sardas/)
+[My Portfolio](https://www.nikosardas.com)
