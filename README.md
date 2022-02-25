@@ -3,9 +3,7 @@
 
 - ✔️ I have completed an immersive web development course with CareerFoundry, and I am currently available for hire.
 
-- 👀 I enjoy working with JavaScript and am currently deepening my knowledge.
-
-- 🔥 I began my development journey as a self-taught Chrome extensions developer and publisher. I love building software products that can be useful to others. [Check out some of my extensions!](https://nikosardas.com/#projects)
+- 🔥 I began my development journey as a self-taught Chrome extensions developer and publisher. I love building software products that can be useful to others.
 
 ## &#x1f4c8; My GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikosardas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
