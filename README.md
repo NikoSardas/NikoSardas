@@ -1,16 +1,22 @@
-## Hi there 👋
+# Niko Sardas
 
-<!--
-**NikoSardas/NikoSardas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT support specialist turned developer with a focus on internal tools, workflow automation, and creative problem solving. I currently work at Liberty University supporting enterprise infrastructure (Intune, Entra, AD, Jamf), and build software in my own time to streamline and improve real workflows.
 
-Here are some ideas to get you started:
+### Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Equalizer Plus](https://github.com/nikosardas/equalizer-plus)**  
+A Chrome extension for real-time audio control—used by 10,000+ people and built using vanilla JS, the Web Audio API, and the Chrome extension platform.
+
+---
+
+### Skills
+- **Languages**: JavaScript, HTML, CSS, C# (basic)
+- **Tooling**: Chrome APIs, Web Audio API, Git, Unity, FMOD
+- **Infrastructure**: Intune, AD, Office 365, Jamf, Entra
+
+---
+
+### Now
+- Working in IT full time
+- Building and deploying tools on the side
+- Transitioning into full-time dev roles
