@@ -5,7 +5,7 @@ IT support specialist turned developer with a focus on internal tools, workflow 
 ### Featured Project
 
 **[Equalizer Plus](https://github.com/nikosardas/equalizer-plus)**  
-A Chrome extension for real-time audio control—used by 10,000+ people and built using vanilla JS, the Web Audio API, and the Chrome extension platform.
+A Chrome extension for real-time audio control. Built using vanilla JS, the Web Audio API, and the Chrome extension platform.
 
 ---
 
