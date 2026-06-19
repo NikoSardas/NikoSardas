@@ -1,16 +1,17 @@
-## Hi there 👋
+# Niko Sardas | IT Infrastructure & Field Technician
+**Lynchburg, VA** | [niko.sardas@icloud.com](mailto:niko.sardas@icloud.com) | [LinkedIn](https://linkedin.com/in/niko-sardas/)
 
-<!--
-**NikoSardas/NikoSardas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hands-on IT professional delivering hardware, network, and physical infrastructure support. Focused on rapid multi-site deployments, hardware diagnostics, low-voltage signal flow, and maximizing systems uptime. Shifting away from helpdesk queues to dedicated field environments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Technical Competencies
+* **Systems & Mobility Management:** Entra ID / Active Directory, Microsoft Intune, Jamf Pro
+* **Infrastructure & Ticketing:** ServiceNow, ITIL Foundations, Asset Auditing, Lifecycle Management
+* **Hardware & Low-Voltage:** PC/Server Diagnostics & Repair, Cable Fabrication (CAT5e/6), Tracing & Patching, Signal Flow Diagnostics, Classroom AV Integration
+
+### 📜 Active Professional Certifications
+* **CompTIA A+**
+* **CompTIA Network+**
+* **CompTIA Security+**
+* **CompTIA Server+**
